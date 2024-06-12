@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A part-time developer 💻 and full-time student 📚, with experience in scripting. I have been working remotely since 2019. I am excited to continue expanding my skills and knowledge in the field 🚀</h3>
 
-- 🧬 I’m currently working on [H.E.L.I.X](https://helixmetaverse.com/#main)
-
 - 🌱 I’m currently learning **SvelteKit**
 
 - 📫 How to reach me **dylanhussain08@gmail.com**
