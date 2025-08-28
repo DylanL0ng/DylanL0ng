@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dylan</h1>
+<h1 align="center">Hi 👋, I'm Dylan Hussain</h1>
 <h3 align="center">CS graduate with experience in full-stack, AI, and mobile application development. Delivered over 500+ web applications for international clients, and developed a multi-award winning AI project with ~92% accuracy which demonstrates strong technical skills across a wide range of frameworks, languages, and tools. Seeking a software engineering role to further develop my skills and contribute to an innovative team.</h3>
 
 - 🌱 I’m currently learning **SvelteKit**
